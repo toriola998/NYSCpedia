@@ -21,7 +21,6 @@ h1 {
 
 .term {
   text-align: center;
-  width: 450px;
   margin: 1rem;
   padding: 2rem;
   border-radius: 3px;
@@ -55,6 +54,7 @@ dd span {
 }
 
 .term {
+  width: 450px;
   margin: 10px;
   padding: 2rem;
   height: 160px;
