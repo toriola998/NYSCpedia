@@ -10,8 +10,7 @@ h1 {
   background-color: #2B943A;
   color: #fff;
   width: 200px;
-  margin-left: 45%;
-  padding-left: 15px;
+  margin: auto;
 }
 
 .dictionary {
@@ -44,10 +43,6 @@ dd span {
 }
 
 @media screen and (min-width: 650px) {
-  h1 {
-    margin-left: 57%;
-    padding-left: 15px;
-  }
 
   .dictionary {
   grid-template-columns: 1fr 1fr;
@@ -78,10 +73,6 @@ dd span {
 }
 
 @media screen and (min-width: 950px) {
-  h1 {
-    margin-left: 45%;
-    padding-left: 15px; 
-  }
  
   .dictionary {
    grid-template-columns: 1fr 1fr 1fr;
